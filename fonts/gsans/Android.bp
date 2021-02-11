@@ -15,61 +15,31 @@
  */
 
 prebuilt_font {
-    name: "Roboto-BlackItalic.ttf",
-    src: "Inter-BlackItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-Black.ttf",
-    src: "Inter-Black.otf",
-}
-
-prebuilt_font {
     name: "Roboto-BoldItalic.ttf",
-    src: "Inter-BoldItalic.otf",
+    src: "GoogleSans-BoldItalic.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-Bold.ttf",
-    src: "Inter-Bold.otf",
+    src: "GoogleSans-Bold.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-Italic.ttf",
-    src: "Inter-Italic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-LightItalic.ttf",
-    src: "Inter-LightItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-Light.ttf",
-    src: "Inter-Light.otf",
+    src: "GoogleSans-Italic.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-MediumItalic.ttf",
-    src: "Inter-MediumItalic.otf",
+    src: "GoogleSans-MediumItalic.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-Medium.ttf",
-    src: "Inter-Medium.otf",
+    src: "GoogleSans-Medium.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-Regular.ttf",
-    src: "Inter-Regular.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-ThinItalic.ttf",
-    src: "Inter-ThinItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-Thin.ttf",
-    src: "Inter-Thin.otf",
+    src: "GoogleSans-Regular.ttf",
 }

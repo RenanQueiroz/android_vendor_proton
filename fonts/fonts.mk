@@ -19,18 +19,12 @@
 PRODUCT_PACKAGES += \
     CutiveMono.ttf \
     DroidSansMono.ttf \
-    Roboto-BlackItalic.ttf \
-    Roboto-Black.ttf \
     Roboto-BoldItalic.ttf \
     Roboto-Bold.ttf \
     Roboto-Italic.ttf \
-    Roboto-LightItalic.ttf \
-    Roboto-Light.ttf \
     Roboto-MediumItalic.ttf \
     Roboto-Medium.ttf \
     Roboto-Regular.ttf \
-    Roboto-ThinItalic.ttf \
-    Roboto-Thin.ttf \
     NotoSerif-BoldItalic.ttf \
     NotoSerif-Bold.ttf \
     NotoSerif-Italic.ttf \
